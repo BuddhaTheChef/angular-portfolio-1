@@ -1,0 +1,31 @@
+.main-div {
+    background-color: rgb(37,37,37);
+    height: 100vh;
+    }
+    
+    .main-footer {
+        text-align: center;
+        background-color: salmon;
+        padding-top: 30px;
+    }
+    
+    .icon-div {
+      background: rgb(37,37,37);
+      display: block;
+      padding: 10px;
+      border-radius: 50%;
+    }
+    
+    .resume-div {
+        width: 100%;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .img-div {
+        padding: 20px;
+        background-color:#0069d9;
+        border-radius: 9px;
+    }
